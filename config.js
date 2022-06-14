@@ -23,7 +23,7 @@ global.ucpn = ''
 
 //================= Url =================//
 global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
-global.linkig = 'I'm on Instagram as @wrong__play. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?i=j7jxriik6qux&utm_content=kqm7q9o'
+global.linkig = 'https://www.instagram.com/invites/contact/?i=j7jxriik6qux&utm_content=kqm7q9o'
 global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.web = 'https://raselcomel.github.io'
@@ -34,7 +34,7 @@ global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'Lord-official'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
+global.watermark = '«ADHI»🇮🇳'
 global.owner = ['919072501166']
 global.premium = ['919072501166']
 global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
